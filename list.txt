@@ -1,0 +1,15 @@
+execve
+brk
+access
+mmap
+open
+fstat
+close
+read
+mprotect
+close
+arch_prctl
+munmap
+write
+exit_group
+
